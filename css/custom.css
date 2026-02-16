@@ -150,7 +150,7 @@ a:hover {
 
 /* Hero Section */
 .hero-section {
-    background: url(../images/home.WEBP) no-repeat center center;
+    background: url(../images/home.webp) no-repeat center center;
     background-size: cover;
     padding: 150px 0 200px;
     position: relative;
@@ -619,4 +619,5 @@ a:hover {
     padding-top: 20px;
     font-size: 14px;
     color: #9ca3af;
+
 }
